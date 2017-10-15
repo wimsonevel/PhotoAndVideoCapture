@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoAndVideoCapture</string>
+
+    <string name="capture_photo">Capture Photo</string>
+    <string name="record_video">Record Video</string>
+
+    <string name="preview_controls_confirm">Send</string>
+</resources>
